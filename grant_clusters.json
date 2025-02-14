@@ -1,0 +1,29 @@
+{
+  "cluster_labels": {
+    "0": [
+      "Digital Education Innovation",
+      "Online Learning Platforms",
+      "Healthcare Research",
+      "Artificial Intelligence and Machine Learning Research",
+      "Real-World Problem Solving Applications"
+    ],
+    "1": [
+      "Innovative Research",
+      "Renewable Energy",
+      "Community-Driven Sustainability",
+      "Local Economic Growth",
+      "Social Entrepreneurship"
+    ]
+  },
+  "clusters": {
+    "0": [
+      "Funding opportunity for digital education innovation and the development of cutting-edge online learning platforms.",
+      "This grant is dedicated to advancing healthcare research, focusing on improving patient outcomes and innovative medical technologies.",
+      "Grants for research in artificial intelligence, machine learning, and their applications in real-world problem solving."
+    ],
+    "1": [
+      "This grant supports innovative research in renewable energy with a focus on community-driven sustainability projects.",
+      "Supports community development projects that promote local economic growth and social entrepreneurship."
+    ]
+  }
+}
