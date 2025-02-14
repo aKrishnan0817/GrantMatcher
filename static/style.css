@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+    background-color: #f4f4f4; /* Light background color */
+    margin: 0; /* Remove default margins */
+    padding: 0;
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Horizontally center content */
+    align-items: center; /* Vertically center content */
+    min-height: 100vh; /* Ensure full viewport height */
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    width: 80%; /* Adjust width as needed */
+    max-width: 800px; /* Set a maximum width */
+}
+
+h1 {
+    text-align: center;
+    color: #333; /* Darker heading color */
+    margin-bottom: 20px;
+}
+
+label {
+    display: block; /* Make labels stack on top of inputs */
+    margin-bottom: 5px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Include padding in width */
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #007bff; /* Blue button */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
